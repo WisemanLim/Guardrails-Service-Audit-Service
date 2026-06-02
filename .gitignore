@@ -181,3 +181,5 @@ decision-events.local/
 *.dump
 *.rdb
 db-snapshots/
+
+package-lock.json
